@@ -78,7 +78,7 @@ Patch55:              openssl-1.1.1-arm-update.patch
 Patch56:              openssl-1.1.1-s390x-ecc.patch
 Patch73:              openssl-1.1.1-cve-2022-0778.patch
 Patch74:              999_replace_expired_certs.patch
-Patch99:              openssl.extensions.patch
+Patch99:              openssl-1.1.1.extensions.patch
 
 License:              OpenSSL and ASL 2.0
 URL:                  http://www.openssl.org/
